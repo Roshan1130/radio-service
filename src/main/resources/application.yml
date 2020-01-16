@@ -19,6 +19,5 @@ sqs:
     name: roshanQueue
 
 aws:
-  accesskey: AKIAISK3AUGATDZ4UTCA 
-  secretkey: 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
-
+  accesskey: AKIAISK3AUGUTCA 
+  secretkey: xSSTY1vYP7/yPHCz4Y5XV1kesherO
